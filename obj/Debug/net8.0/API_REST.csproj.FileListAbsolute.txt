@@ -1,0 +1,5 @@
+C:\Users\chico\source\repos\API_REST\obj\Debug\net8.0\API_REST.csproj.AssemblyReference.cache
+C:\Users\chico\source\repos\API_REST\obj\Debug\net8.0\API_REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\source\repos\API_REST\obj\Debug\net8.0\API_REST.AssemblyInfoInputs.cache
+C:\Users\chico\source\repos\API_REST\obj\Debug\net8.0\API_REST.AssemblyInfo.cs
+C:\Users\chico\source\repos\API_REST\obj\Debug\net8.0\API_REST.csproj.CoreCompileInputs.cache
